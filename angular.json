@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "formlyComponent"
+    }
+  },
+  "defaultProject": "formlyComponent",
+  "cli": {
+    "analytics": false
+  }
 }
